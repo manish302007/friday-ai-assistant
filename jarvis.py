@@ -17,7 +17,7 @@ from groq import Groq
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("dark-blue")
 
-client = Groq(api_key="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")
+client = Groq(api_key="gsk_JCab8BTCn7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxl")
 
 contacts = {
     "mom": "+91XXXXXXXXXX",
