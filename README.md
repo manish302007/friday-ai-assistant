@@ -16,9 +16,6 @@ Python, Groq API, SpeechRecognition, pyttsx3, CustomTkinter, OpenCV, MediaPipe
 ## 💡 About
 Built using AI-assisted development to speed up building and focus more on integration and logic.
 
-## ▶️ Demo
-
-
 ## ⚙️ Setup
 ```bash
 pip install -r requirements.txt
